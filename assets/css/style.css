@@ -1,0 +1,723 @@
+@import url('../../css/pf-tempesta-seven');
+
+/*-------------------------------------
+		1.General css (Reset code)
+--------------------------------------*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+section {
+    background-color: transparent!important;
+}
+body{
+ background: url(../images/bg.png)repeat;
+
+   background-size: cover;
+
+   background-color: rgba(255, 255, 255, 0.3)!important;
+    font-family: 'PF Tempesta Seven', sans-serif;
+	font-size:16px;
+	color:#000000;
+    text-transform:initial;
+    max-width:1920px;
+    margin:0 auto;
+    
+    
+}
+
+a,a:hover,a:active,a:focus {
+	display:inline-block;
+	text-decoration:none;
+	color: #444a57;
+	font-size:20px;
+	padding:0;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+p {
+	margin: 0;
+	color:#000000;
+	font-size:22px;
+    line-height: 1.8;
+    text-transform: initial;
+}
+img{border:none;max-width:100%; height:auto;}
+
+html,body{height: 100%;}
+
+.section-header{
+    position: relative;
+    text-align: center;
+}
+.section-header img {
+    width: 100px; 
+    height: auto;
+}
+
+.section-header p {
+  font-size: 18px; 
+  margin-bottom:10px;
+}
+
+.section-header h2{
+     padding-top: 100px; 
+  font-size: 30px;
+    position: relative;
+    font-size: 36px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    color: white;
+}
+.section-header h2:before {
+    position: absolute;
+    content: "";
+    width: 80px;
+    height: 2px;
+    bottom: 0;
+    left: 50%;
+    margin-left: -42px;
+    background: #4e4ffa;
+}
+
+
+
+/* section-header */
+
+/*=============Style css=========*/
+
+
+/*-------------------------------------
+        2. Top-area
+--------------------------------------*/
+
+/* For smaller screens (e.g., mobile devices) */
+@media screen and (max-width: 767px) {
+  .logo img {
+    width: 300px ;
+   height: 300px;
+    margin: 10px; 
+    padding: 10px; 
+  }
+}
+
+.logo {
+    text-align: center;
+}
+.logo img {
+  width: 400px;
+  height: 400px;
+  margin: 20px; 
+  padding: 10px;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+   opacity: 1;
+}
+
+nav.navbar.bootsnav {
+    background-color: transparent;
+    border-bottom: transparent;
+}
+.wrap-sticky nav.navbar.bootsnav.sticked {}
+
+
+/*-------------------------------------
+        3.  Welcome-hero
+--------------------------------------*/
+.welcome-hero {
+    background: transparent;
+
+  
+}
+
+
+/*.welcome-hero-txt*/
+.welcome-hero-txt{text-align: center;padding:120px 0 50px;}
+.welcome-hero-txt h1 {
+    font-size: 60px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .welcome-hero-txt h1 {
+    font-size: 50px; /* Adjust the font size according to your preference */
+  }
+}
+
+.welcome-hero-txt h3 {
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.welcome-hero-txt p {
+    text-align: left;
+    font-size: 18px;
+    text-transform: initial;
+    color: #fff;
+    font-weight: 500;
+    max-width: 735px;
+    margin: 0 auto;
+    
+}
+.welcome-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #44d4f8;
+    text-decoration: none;
+    border: 1px solid;
+    cursor: pointer;
+    margin: 5px; 
+    border-radius: 5%!important;
+    width: 190px;
+    height: 50px;
+    margin-top: 30px;
+    -webkit-transition: .3s linear; 
+    -moz-transition:.3s linear; 
+    -ms-transition:.3s linear; 
+    -o-transition:.3s linear;
+    transition: .3s linear;
+}
+.welcome-btn:hover{
+    background: #787878;
+}
+
+.welcome-btn a:hover {
+    color: #ffffff;
+}
+/*.welcome-hero-txt*/
+
+
+/*-------------------------------------
+        5. tokenomics
+--------------------------------------*/
+
+.tokenomics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+}
+
+.tokenomics_header {
+  text-align: center;
+}
+
+.tokenomics_header h1 {
+  padding: 30px; /* Adjust padding as needed */
+  font-size: 40px;
+}
+
+.single-tokenomics-item {
+     width: 350px; 
+    height: 250px;
+    background-color: #45d9e7;
+    text-align: center;
+    padding:30px 30px 30px;
+    margin-bottom: 30px;
+    border: 1px solid #000000;
+    -webkit-transition: .3s linear; 
+    -moz-transition:.3s linear; 
+    -ms-transition:.3s linear; 
+    -o-transition:.3s linear;
+    transition: .3s linear;
+      border-radius: 5%;
+}
+
+.single-tokenomics-icon {
+    display: inline-block;
+    color: #6c5b50;
+}
+.single-tokenomics-item h2 {
+    font-size:30px;
+    margin: 35px 0 20px;
+    color:rgb(0, 0, 0);
+    text-transform: none;
+    
+}
+.single-tokenomics-item p {padding-bottom: 35px;text-transform: initial;position: relative;}
+.single-tokenomics-item p:before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 3px;
+    background: #ffffff;
+    bottom: 0;
+    left: 50%;
+    margin-left: -10px;
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 500px) {
+ .ca {
+    font-size: 13px!important; /* Font size for mobile devices */
+  }
+}
+
+.single-tokenomics-icon [class^="flaticon-"]:before,.single-tokenomics-icon[class*=" flaticon-"]:before,.single-tokenomics-icon [class^="flaticon-"]:after,.single-tokenomics-icon [class*=" flaticon-"]:after {font-size:60px;}
+.single-tokenomics-item:hover .single-tokenomics-icon [class^="flaticon-"]:before,.single-tokenomics-item:hover .single-tokenomics-icon [class*=" flaticon-"]:before,.single-tokenomics-item:hover .single-tokenomics-icon [class^="flaticon-"]:after,.single-tokenomics-item:hover .single-tokenomics-icon [class*=" flaticon-"]:after {color:#fff;}
+
+
+.single-tokenomics-item:hover h2 a,.single-tokenomics-item:hover p{color: #fff;}
+.single-tokenomics-item:hover  p:before {background: #fff;}
+.single-tokenomics-item:hover{
+    background-color: #787878;
+}
+
+
+
+
+/*-------------------------------------
+        6. howtobuy
+--------------------------------------*/
+.howtobuy{
+  background-color: transparent;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.howtobuy-content{padding-top:96px;}
+/*.howtobuy-txt*/
+.howtobuy-txt {margin-left: 29px;margin-bottom: 30px;}
+.howtobuy-txt h2 a {
+    font-size:  30px;
+    font-weight:  500;
+    margin-bottom: 26px;
+}
+.howtobuy-txt h2 a span {text-transform:  uppercase;}
+.howtobuy-para2 {margin-top: 30px;}
+.welcome-btn.howtobuy-btn {
+    width: 176px;
+    margin-top: 32px;
+}
+/*.howtobuy-txt*/
+
+/*.owl-dots */
+.howtobuy .owl-theme .owl-dots .owl-dot span {
+    width: 8px;
+    height: 8px;
+    margin: 0px 4px;
+    background: transparent;
+    border: 1px solid #6a7781;
+    border-radius: 50%;
+}
+.howtobuy .owl-theme .owl-dots .owl-dot.active span,.howtobuy .owl-theme .owl-dots .owl-dot:hover span {background-color: transparent;}
+.howtobuy .owl-theme .owl-nav.disabled+.owl-dots {margin-top: 62px;}
+/*.owl-dots */
+
+
+
+/*owl carousel*/
+.clients-say .owl-carousel .owl-stage {
+    position: relative;
+    padding: 100px 0 40px;
+}
+.clients-say .owl-carousel .owl-item img {
+    display: block;
+    width: 70px;
+    height: 70px;
+    border-radius:50%;
+    margin:0 auto;
+}
+/*owl carousel*/
+
+/*-------------------------------------
+        9. Brand
+--------------------------------------*/
+.brand{
+    padding: 120px 0;
+}
+.brand-area {
+    position:relative;
+}
+.brand-area .item {
+    padding: 0 40px 0;
+}
+
+.brand .brand-area .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    height:72px;
+    border-radius:0;
+}
+
+
+/*-------------------------------------
+        12. Contact
+--------------------------------------*/
+.contact {
+    background: #aaaaac;
+}
+.footer-top {padding: 112px 0 72px;}
+
+/*.footer-logo*/
+.footer-logo a,.footer-logo a:hover,.footer-logo a:focus{
+    display: inline-block;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 3px;
+font-family: 'PF Tempesta Seven', sans-serif;
+    font-weight: 700;
+    text-transform:uppercase;
+}
+.single-footer-widget p {
+    font-size: 14px;
+    color: #000000;
+    max-width: 300px;
+    margin:40px 0 20px;
+}
+.footer-contact p {
+    margin: 0;
+    color: #000000;
+}
+/*.footer-logo*/
+
+.single-footer-widget {margin-bottom: 40px;}
+.single-footer-widget h2 {
+    font-size: 14px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 43px;
+}
+.single-footer-widget ul li {
+    display:  inherit;
+    -webkit-transition: .5s; 
+    -moz-transition:.5s; 
+    -ms-transition:.5s; 
+    -o-transition:.5s;
+    transition: .5s;
+}
+.single-footer-widget ul li:hover{
+    -webkit-transform:translateX(10px);
+    -moz-transform:translateX(10px);
+    -ms-transform:translateX(10px);
+    -o-transform:translateX(10px);
+    transform:translateX(10px);
+}
+.single-footer-widget ul li a {
+    font-size:  14px;
+    color:  #000000;
+    font-weight:  300;
+    padding-bottom: 13px;
+}
+.single-footer-widget ul li a span {text-transform: lowercase;}
+.footer-newsletter p{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 0 0 15px;
+}
+/*hm-foot-email*/
+.hm-foot-email{position: relative;}
+.foot-email-box .form-control {
+    background:#26294d;
+    display: block;
+    padding: 15px 20px;
+    outline:0!important;
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+    border:0;
+}
+.foot-email-box input[type="text"]{
+    font-size: 12px;
+    color: #666c81;
+    font-weight: 300;
+}
+.foot-email-subscribe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 100%;
+    background: transparent;
+    color: #666c81;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foot-email-box .form-control:hover{
+    box-shadow:0 5px 15px rgba(0,0,0,.4);
+}
+/*hm-foot-email*/
+/*.footer-copyright */
+.footer-copyright {
+    padding: 20px 0 17px;
+    border-top: 1px solid #434859;
+    text-align: center;
+}
+.footer-copyright p,.footer-copyright p a {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.footer-social{text-align: right;}
+.footer-social a i {
+    color: #fff;
+    opacity: .40;
+    font-size: 14px;
+    margin-left: 16px;
+    -webkit-transition: .3s; 
+    -moz-transition:.3s; 
+    -ms-transition:.3s; 
+    -o-transition:.3s;
+    transition: .3s;
+}
+.footer-social i:hover{opacity: .70;}
+/*.footer-copyright */
+
+/*===============================
+    Scroll Top
+===============================*/
+#scroll-Top  .return-to-top {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    display: none;
+    width: 40px;
+    line-height: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    background:#4e4ffa;
+	border:1px solid #4e4ffa;
+	border-radius:50%;
+	-webkit-transition: .5s; 
+	-moz-transition:.5s; 
+	-ms-transition:.5s; 
+	-o-transition:.5s;
+    transition: .5s;
+	z-index: 2;
+}
+#scroll-Top  .return-to-top:hover {
+    background:#fff;
+    color: #4e4ffa;
+	border:1px solid #4e4ffa;
+}
+
+#scroll-Top  .return-to-top i{
+    position:relative;
+    bottom:0;
+
+}
+
+#scroll-Top  .return-to-top i{
+    position: relative;
+    animation-name: example;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-duration:1s;
+}
+@keyframes example {
+    0%   {bottom:0px;}
+    100%  {bottom:7px;}
+}
+
+
+@media (max-width: 767.98px) {
+    .about-img {
+        width: 300px; 
+        height: auto; 
+    }
+}
+
+#loader-wrapper {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #fff;
+    z-index: 9999;
+}
+
+#loader {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    animation: spin 2s linear infinite;
+}
+
+.loader-section {
+    position: fixed;
+    top: 0;
+    width: 51%;
+    height: 100%;
+    background: #fff;
+    z-index: 10000;
+}
+
+.section-left {
+    left: 0;
+}
+
+.section-right {
+    right: 0;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.dropdown-menu li:hover {
+    background-color: #3498db!important; 
+}
+
+/* Custom styling for dropdown */
+.dropdown-menu {
+    background-color: #f8f9fa; /* Background color */
+    border: none; /* Remove border */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add shadow */
+    text-align: center!important;
+    width: 100%;
+}
+
+.dropdown-menu a {
+    color: #333; /* Text color */
+    font-weight: 500; /* Font weight */
+}
+
+.dropdown-menu a:hover,
+.dropdown-menu a:focus {
+    background-color: #ffffff!important; /* Hover background color */
+    color: trans!important; /* Hover text color */
+    width: 100%!important;
+}
+
+.dropdown-menu > li > a {
+    padding: 10px 20px; /* Padding */
+}
+
+.dropdown-menu > li > a:hover {
+    background-color: #e9ecef; /* Hover background color */
+    color: #007bff!important; /* Hover text color */
+}
+
+.dropdown-menu > li > a:focus {
+    background-color: #e9ecef; /* Focus background color */
+    color: #007bff; /* Focus text color */
+}
+
+/* Custom styling for dropdown menu items */
+.dropdown-menu .dropdown-item {
+    padding: 10px 20px; /* Adjust padding */
+}
+
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
+    background-color: #e9ecef; /* Hover background color */
+    color: #007bff; /* Hover text color */
+}
+
+.token_CA p{
+    color: #000000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: capitalize;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    padding-bottom: 30px!important;
+
+}
+
+@media (max-width: 767px) {
+    .token_CA p {
+        font-size: 12px!important; 
+    }
+}
+
+
+.copy-notification {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    z-index: 9999;
+    display: none;
+}
+
+.about {
+    padding-top: 50px;
+}
+.about h2{
+font-size: 40px;
+padding-bottom: 30px;
+}
+@media only screen and (max-width: 768px) {
+  .about p {
+    font-size: 14px; /* Adjust the font size according to your preference */
+  }
+}
+
+@media only screen and (max-width: 768px) {
+.about h2 {
+    font-size: 34px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+.tokenomics h1 {
+    font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+.howtobuy h2 {
+    font-size: 34px!important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+.howtobuy p {
+    font-size: 24px!important;
+    }
+}
+
+.images {
+    margin-top: 70px;
+}
+
+.images img {
+    max-width: 400px;
+    max-height: 400px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.single_image {
+    margin-top: 70px;
+}
+
+.single_image img {
+    max-width: 100%;
+    height: auto;
+}

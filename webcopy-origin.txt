@@ -1,0 +1,232 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js
+File Name: C:\Downloaded Web Sites\www.npcsol.net\ajax\libs\modernizr\2.8.3\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.cdnfonts.com/css/pf-tempesta-seven
+File Name: C:\Downloaded Web Sites\www.npcsol.net\css\pf-tempesta-seven
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven_bold.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven_bold.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven_compressed.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven_compressed.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven_compressed_bold.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven_compressed_bold.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven_condensed.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven_condensed.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven_condensed_bold.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven_condensed_bold.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven_extended.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven_extended.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7342/pf_tempesta_seven_extended_bold.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\s\7342\pf_tempesta_seven_extended_bold.woff
+Content Type: font/woff
+
+Uri: https://www.npcsol.net/
+File Name: C:\Downloaded Web Sites\www.npcsol.net\index.htm
+Content Type: text/html
+
+Uri: https://www.npcsol.net/assets/css/bootsnav.css
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\css\bootsnav.css
+Content Type: text/css
+
+Uri: https://www.npcsol.net/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.npcsol.net/assets/css/flaticon.css
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.npcsol.net/assets/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.npcsol.net/assets/css/linearicons.css
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\css\linearicons.css
+Content Type: text/css
+
+Uri: https://www.npcsol.net/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.npcsol.net/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.npcsol.net/assets/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.npcsol.net/assets/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.npcsol.net/assets/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://www.npcsol.net/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.npcsol.net/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.npcsol.net/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.npcsol.net/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.npcsol.net/assets/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.npcsol.net/assets/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.npcsol.net/assets/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.npcsol.net/assets/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.npcsol.net/assets/fonts/Linearicons-Free.eot?
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/Linearicons-Free.eot?w118d
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.npcsol.net/assets/fonts/Linearicons-Free.svg?w118d
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://www.npcsol.net/assets/fonts/Linearicons-Free.ttf?w118d
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Linearicons-Free.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.npcsol.net/assets/fonts/Linearicons-Free.woff2?w118d
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Linearicons-Free.woff2
+Content Type: font/woff2
+
+Uri: https://www.npcsol.net/assets/fonts/Linearicons-Free.woff?w118d
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\fonts\Linearicons-Free.woff
+Content Type: application/font-woff
+
+Uri: https://www.npcsol.net/assets/images/1.jpg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.npcsol.net/assets/images/2.jpg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.npcsol.net/assets/images/3.jpg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.npcsol.net/assets/images/4.jpg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.npcsol.net/assets/images/5.jpg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.npcsol.net/assets/images/bg.png
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\bg.png
+Content Type: image/png
+
+Uri: https://www.npcsol.net/assets/images/copy.png
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\copy.png
+Content Type: image/png
+
+Uri: https://www.npcsol.net/assets/images/dexscreener.png
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\dexscreener.png
+Content Type: image/png
+
+Uri: https://www.npcsol.net/assets/images/favicon.jpg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\favicon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.npcsol.net/assets/images/logo.jpg
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.npcsol.net/assets/images/raydium.png
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\raydium.png
+Content Type: image/png
+
+Uri: https://www.npcsol.net/assets/images/solscan.png
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\solscan.png
+Content Type: image/png
+
+Uri: https://www.npcsol.net/assets/images/telegram.webp
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\telegram.webp
+Content Type: image/webp
+
+Uri: https://www.npcsol.net/assets/images/twitter.png
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\images\twitter.png
+Content Type: image/png
+
+Uri: https://www.npcsol.net/assets/js/bootsnav.js
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\js\bootsnav.js
+Content Type: application/x-javascript
+
+Uri: https://www.npcsol.net/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.npcsol.net/assets/js/jquery.js
+File Name: C:\Downloaded Web Sites\www.npcsol.net\assets\js\jquery.js
+Content Type: application/x-javascript
+
